@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioGit\\KxtPkx\\publiclibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-960x540\\values-960x540.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioGit\\KxtPkx\\publiclibrary\\src\\main\\res\\values-960x540\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 47,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\littleProject\\KxtPkx\\publiclibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-960x540\\values-960x540.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "E:\\littleProject\\KxtPkx\\publiclibrary\\src\\main\\res\\values-960x540\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 47,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    }
+]

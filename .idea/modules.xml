@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlycoTabLayout_Lib/FlycoTabLayout_Lib.iml" filepath="$PROJECT_DIR$/FlycoTabLayout_Lib/FlycoTabLayout_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KxtPkx.iml" filepath="$PROJECT_DIR$/KxtPkx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialPtrLibrary/MaterialPtrLibrary.iml" filepath="$PROJECT_DIR$/MaterialPtrLibrary/MaterialPtrLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autobahn/autobahn.iml" filepath="$PROJECT_DIR$/autobahn/autobahn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kloglibrary/kloglibrary.iml" filepath="$PROJECT_DIR$/kloglibrary/kloglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publiclibrary/publiclibrary.iml" filepath="$PROJECT_DIR$/publiclibrary/publiclibrary.iml" />
+    </modules>
+  </component>
+</project>

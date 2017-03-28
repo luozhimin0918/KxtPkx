@@ -1,0 +1,12 @@
+
+	使用框架:
+	MVP +  DataBinding
+
+	Volley + Fresco + DiskLruCache + GreenDao + FastJson + EventBus + Slf4j + ButterKnife+Gotye（后续根据需求再适当添加）
+
+	代码命名:
+
+		Activity: 业务名称+Activity(LoginActivity)   XML: 模块名称+Activity+业务名称(方便分组)(login_activity_login)
+		Fragment: 同上
+		ID	: 业务名称+控件简称+描述(login_edit_name)
+		

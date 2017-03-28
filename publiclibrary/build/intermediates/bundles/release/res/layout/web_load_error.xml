@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:src="@mipmap/icon_error"
+        android:id="@+id/imageView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="62dp"
+        android:text="没网络,重新加载"
+        android:textColor="#999999"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/error_reload"
+        android:layout_width="106dp"
+        android:layout_height="37dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/bg_error_reload"
+        android:gravity="center"
+        android:text="重新加载"
+        android:textColor="#2A87F0"
+        android:textSize="18sp" />
+
+</LinearLayout>

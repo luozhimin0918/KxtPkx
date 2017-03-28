@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">掌中快讯</string>
+    <string name="websocket_domain">http://appandroid.kuaixun56.com</string>
+    <string name="websocket_key">android12345</string>
+
+    <string name="load_err">亲，数据加载出错了！</string>
+    <string name="load_nonet">亲，网络错误！</string>
+</resources>

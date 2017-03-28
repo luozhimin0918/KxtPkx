@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_null"
+    android:layout_width="match_parent"
+    android:layout_height="28dp"
+    android:background="@color/top_time_bg"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/separator_rl_date"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/main_separator_line_tv_date"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:lineSpacingMultiplier="1.0"
+            android:maxLines="1"
+            android:text=""
+            android:textColor="@color/top_time_text"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

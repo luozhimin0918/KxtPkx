@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="top_time_bg">#ebebeb</color>
+    <color name="top_time_text">#858e94</color>
+    <color name="text_title">#2e3239</color>
+    <color name="font_6">#666666</color>
+    <color name="font_8">#888888</color>
+    <color name="font_bb2">#a1abb2</color>
+    <color name="text_title_red">#ea492a</color>
+    <color name="left_time_text">#a1aab3</color>
+    <color name="line_bg">#ededed</color>
+
+    <color name="blue_ff">#009aff</color>
+    <color name="gray_bg">#f1f2f6</color>
+    <color name="yellow_25">#fd9525</color>
+    <color name="green_3d">#56a73d</color>
+    <color name="red_2c">#fe2c2c</color>
+    <color name="pop_background">#a0000000</color>
+    <color name="update_btn">#3caafa</color>
+
+    <integer-array name="my_material_colors">
+        <item>@color/blue_ff</item>
+        <item>@color/blue_ff</item>
+        <item>@color/blue_ff</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pop_background">
+
+    <RelativeLayout
+        android:id="@+id/relative_web"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:visibility="invisible">
+
+
+        <WebView
+            android:id="@+id/ad_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="100dp"
+            android:layout_marginLeft="37dp"
+            android:layout_marginRight="37dp"
+            android:layout_marginTop="100dp">
+
+
+        </WebView>
+
+        <ImageView
+            android:id="@+id/web_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="83dp"
+            android:src="@mipmap/pop_close" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relative_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/transparent"
+        android:visibility="invisible">
+
+        <ImageView
+            android:id="@+id/ad_bg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="100dp"
+            android:layout_marginLeft="37dp"
+            android:layout_marginRight="37dp"
+            android:layout_marginTop="100dp"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/ad_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="83dp"
+            android:src="@mipmap/pop_close" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

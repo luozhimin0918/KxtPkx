@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet config="main$Generated" generated="true"><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res"/><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\build\generated\res\rs\debug"/><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res"><file name="break_from_left" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\break_from_left.xml" qualifiers="" type="anim"/><file name="break_from_right" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\break_from_right.xml" qualifiers="" type="anim"/><file name="error_frame_in" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\error_frame_in.xml" qualifiers="" type="anim"/><file name="error_x_in" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\error_x_in.xml" qualifiers="" type="anim"/><file name="fade_in_anim" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\fade_in_anim.xml" qualifiers="" type="anim"/><file name="fade_out_anim" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\fade_out_anim.xml" qualifiers="" type="anim"/><file name="in_from_right" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\in_from_right.xml" qualifiers="" type="anim"/><file name="item_alpha_in" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\item_alpha_in.xml" qualifiers="" type="anim"/><file name="modal_in" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\modal_in.xml" qualifiers="" type="anim"/><file name="modal_out" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\modal_out.xml" qualifiers="" type="anim"/><file name="out_to_left" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\out_to_left.xml" qualifiers="" type="anim"/><file name="pop_window1_in" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\pop_window1_in.xml" qualifiers="" type="anim"/><file name="pop_window1_out" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\pop_window1_out.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="success_bow_roate" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\success_bow_roate.xml" qualifiers="" type="anim"/><file name="success_mask_layout" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\anim\success_mask_layout.xml" qualifiers="" type="anim"/><file name="date_picker_selector" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\color\date_picker_selector.xml" qualifiers="" type="color"/><file name="date_picker_year_selector" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\color\date_picker_year_selector.xml" qualifiers="" type="color"/><file name="done_text_color" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\color\done_text_color.xml" qualifiers="" type="color"/><file name="bg_error_reload" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\bg_error_reload.xml" qualifiers="" type="drawable"/><file name="blue_button_background" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\blue_button_background.xml" qualifiers="" type="drawable"/><file name="default_ptr_flip" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\default_ptr_flip.png" qualifiers="" type="drawable"/><file name="dialog_background" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\dialog_background.xml" qualifiers="" type="drawable"/><file name="error_center_x" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\error_center_x.xml" qualifiers="" type="drawable"/><file name="error_circle" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\error_circle.xml" qualifiers="" type="drawable"/><file name="gray_button_background" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\gray_button_background.xml" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="red_button_background" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\red_button_background.xml" qualifiers="" type="drawable"/><file name="shape_widget_toast" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\shape_widget_toast.xml" qualifiers="" type="drawable"/><file name="success_bow" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\success_bow.xml" qualifiers="" type="drawable"/><file name="success_circle" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\success_circle.xml" qualifiers="" type="drawable"/><file name="warning_circle" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\warning_circle.xml" qualifiers="" type="drawable"/><file name="warning_sigh" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable\warning_sigh.xml" qualifiers="" type="drawable"/><file name="default_ptr_rotate" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable-hdpi\default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable-hdpi\indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable-mdpi\default_ptr_rotate.png" qualifiers="mdpi-v4" type="drawable"/><file name="indicator_arrow" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable-mdpi\indicator_arrow.png" qualifiers="mdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable-xhdpi\default_ptr_rotate.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_arrow" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\drawable-xhdpi\indicator_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="alert_dialog" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\alert_dialog.xml" qualifiers="" type="layout"/><file name="date_picker_dialog" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\date_picker_dialog.xml" qualifiers="" type="layout"/><file name="date_picker_done_button" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\date_picker_done_button.xml" qualifiers="" type="layout"/><file name="date_picker_header_view" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\date_picker_header_view.xml" qualifiers="" type="layout"/><file name="date_picker_selected_date" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\date_picker_selected_date.xml" qualifiers="" type="layout"/><file name="date_picker_title" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\date_picker_title.xml" qualifiers="" type="layout"/><file name="date_picker_view_animator" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\date_picker_view_animator.xml" qualifiers="" type="layout"/><file name="fragment_status" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\fragment_status.xml" qualifiers="" type="layout"/><file name="item_banner_layout" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\item_banner_layout.xml" qualifiers="" type="layout"/><file name="listview_footer" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\listview_footer.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="time_header_label" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\time_header_label.xml" qualifiers="" type="layout"/><file name="time_picker_dialog" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\time_picker_dialog.xml" qualifiers="" type="layout"/><file name="volley_fullload" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\volley_fullload.xml" qualifiers="" type="layout"/><file name="volley_loading" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\volley_loading.xml" qualifiers="" type="layout"/><file name="volley_load_error" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\volley_load_error.xml" qualifiers="" type="layout"/><file name="volley_load_nodata" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\volley_load_nodata.xml" qualifiers="" type="layout"/><file name="volley_load_offnet" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\volley_load_offnet.xml" qualifiers="" type="layout"/><file name="web_loading" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\web_loading.xml" qualifiers="" type="layout"/><file name="web_load_error" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\web_load_error.xml" qualifiers="" type="layout"/><file name="widget_toast" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\widget_toast.xml" qualifiers="" type="layout"/><file name="widget_toast2" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\widget_toast2.xml" qualifiers="" type="layout"/><file name="year_label_text_view" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\layout\year_label_text_view.xml" qualifiers="" type="layout"/><file name="erorr_net" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\erorr_net.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="error" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\error.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_error" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\icon_error.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ico_calendar_data" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\ico_calendar_data.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ico_def_load" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\ico_def_load.9.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="no_data_img" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\no_data_img.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="toast_icon" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\toast_icon.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="volley_update" path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\mipmap-xhdpi\volley_update.png" qualifiers="xhdpi-v4" type="mipmap"/><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="Rotate3dAnimation">
+        <attr format="enum" name="rollType">
+            <enum name="x" value="0"/>
+            <enum name="y" value="1"/>
+            <enum name="z" value="2"/>
+        </attr>
+        <attr format="float" name="fromDeg"/>
+        <attr format="float" name="toDeg"/>
+        <attr format="fraction" name="pivotX"/>
+        <attr format="fraction" name="pivotY"/>
+    </declare-styleable><declare-styleable name="SwipyRefreshLayout">
+        <attr name="direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="both" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="BannerLayoutStyle">
+        <attr format="color|reference" name="selectedIndicatorColor"/>
+        <attr format="color|reference" name="unSelectedIndicatorColor"/>
+        <attr format="enum" name="indicatorShape">
+            <enum name="rect" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr>
+
+        <attr format="dimension|reference" name="selectedIndicatorHeight"/>
+        <attr format="dimension|reference" name="selectedIndicatorWidth"/>
+
+        <attr format="dimension|reference" name="unSelectedIndicatorHeight"/>
+        <attr format="dimension|reference" name="unSelectedIndicatorWidth"/>
+
+        <attr format="enum" name="indicatorPosition">
+            <enum name="centerBottom" value="0"/>
+            <enum name="rightBottom" value="1"/>
+            <enum name="leftBottom" value="2"/>
+            <enum name="centerTop" value="3"/>
+            <enum name="rightTop" value="4"/>
+            <enum name="leftTop" value="5"/>
+        </attr>
+
+        <attr format="dimension|reference" name="indicatorSpace"/>
+        <attr format="dimension|reference" name="indicatorMargin"/>
+        <attr format="integer|reference" name="autoPlayDuration"/>
+        <attr format="integer|reference" name="scrollDuration"/>
+        <attr format="boolean" name="isAutoPlay"/>
+        <attr format="integer|reference" name="defaultImage"/>
+    </declare-styleable><declare-styleable name="ShimmerView">
+        <attr format="color" name="reflectionColor"/>
+    </declare-styleable></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\colors.xml" qualifiers=""><color name="button_text_color">#FFFFFF</color><color name="gray_btn_bg_color">#D0D0D0</color><color name="progress_wheel_color">#2A87F0</color><color name="warning_stroke_color">#F8BB86</color><color name="material_blue_grey_80">#ff37474f</color><color name="circle_background">#fff2f2f2</color><color name="ampm_text_color">#8c8c8c</color><color name="sweet_dialog_bg_color">#FFFFFF</color><color name="red_btn_bg_pressed_color">#CD5B55</color><color name="red_btn_bg_color">#DD6B55</color><color name="material_deep_teal_20">#ff80cbc4</color><color name="date_picker_text_normal">#ff999999</color><color name="float_transparent">#00000000</color><color name="text_color">#575757</color><color name="material_blue_grey_95">#ff21272b</color><color name="done_text_color_normal">#ff333333</color><color name="success_stroke_color">#A5DC86</color><color name="numbers_text_color">#8c8c8c</color><color name="dialog_bg">#5F5F5F</color><color name="material_deep_teal_50">#ff009688</color><color name="date_picker_view_animator">#fff2f2f2</color><color name="darker_blue">#ff0099cc</color><color name="blue_btn_bg_pressed_color">#96BFD2</color><color name="gray_btn_bg_pressed_color">#B6B6B6</color><color name="material_blue_grey_90">#ff263238</color><color name="blue_btn_bg_color">#AEDEF4</color><color name="trans_success_stroke_color">#33A5DC86</color><color name="line_background">#ffcccccc</color><color name="done_text_color_disabled">#ffcccccc</color><color name="calendar_header">#ff999999</color><color name="blue">#2A87F0</color><color name="error_stroke_color">#F27474</color><color name="transparent_black">#7F000000</color><color name="white">#ffffffff</color></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="common_circle_width">3dp</dimen><dimen name="selected_date_year_size">30dip</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="month_select_circle_radius">45dip</dimen><dimen name="month_day_label_text_size">10sp</dimen><dimen name="day_number_select_circle_radius">16dip</dimen><item format="float" name="circle_radius_multiplier" type="string">0.82</item><item format="float" name="text_size_multiplier_outer" type="string">0.11</item><dimen name="time_label_size">60sp</dimen><item format="float" name="numbers_radius_multiplier_normal" type="string">0.81</item><item format="float" name="text_size_multiplier_inner" type="string">0.14</item><dimen name="selected_date_day_size">75dip</dimen><dimen name="pull_font_size">15sp</dimen><dimen name="date_picker_header_height">30dip</dimen><dimen name="alert_width">290dp</dimen><dimen name="progress_circle_radius">34dp</dimen><dimen name="selected_date_month_size">30dip</dimen><dimen name="year_label_height">64dip</dimen><dimen name="minimum_margin_sides">48dip</dimen><dimen name="date_picker_component_width">270dip</dimen><dimen name="year_label_text_size">22dip</dimen><dimen name="month_list_item_header_height">50dip</dimen><dimen name="header_height">96dip</dimen><dimen name="done_label_size">14sp</dimen><dimen name="day_number_size">16sp</dimen><dimen name="extra_time_label_margin">-30dp</dimen><item format="float" name="numbers_radius_multiplier_outer" type="string">0.83</item><dimen name="header_footer_top_bottom_padding">12dp</dimen><item format="float" name="numbers_radius_multiplier_inner" type="string">0.60</item><dimen name="separator_padding">4dip</dimen><item format="float" name="ampm_circle_radius_multiplier" type="string">0.19</item><dimen name="date_picker_header_text_size">14dip</dimen><item format="float" name="text_size_multiplier_normal" type="string">0.17</item><dimen name="ampm_label_size">16sp</dimen><dimen name="month_label_size">16sp</dimen><item format="float" name="selection_radius_multiplier" type="string">0.16</item><dimen name="indicator_internal_padding">4dp</dimen><dimen name="ampm_left_padding">6dip</dimen><dimen name="date_picker_view_animator_height">270dip</dimen><item format="float" name="circle_radius_multiplier_24HourMode" type="string">0.85</item><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="picker_dimen">270dip</dimen><dimen name="minimum_margin_top_bottom">24dip</dimen><dimen name="selected_calendar_layout_height">155dip</dimen></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\ids.xml" qualifiers=""><item name="date_picker_month_and_day" type="id">false</item><item name="scrollview" type="id"/><item name="webview" type="id"/><item name="month_text_view" type="id">false</item><item name="date_picker_header" type="id">false</item><item name="gridview" type="id"/><item name="date_picker_year" type="id">false</item><item name="done" type="id">false</item><item name="date_picker_day" type="id">false</item><item name="day_picker_selected_date_layout" type="id">false</item><item name="contents" type="id"/><item name="animator" type="id">false</item><item name="date_picker_month" type="id">false</item></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\pull_refresh_strings.xml" qualifiers=""><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string><string name="pull_to_refresh_pull_label2">上拉可以刷新</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="pull_to_refresh_refreshing_label">数据加载中</string><string name="pull_to_refresh_pull_label">下拉可以刷新</string><string name="pull_to_refresh_release_label">松开立即更新</string></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\strings.xml" qualifiers=""><string name="dialog_ok">确定</string><string name="item_is_selected">%1$s selected</string><string name="radial_numbers_typeface" translatable="false">sans-serif</string><string name="volley_load_no_data">暂无数据~</string><string name="dialog_cancel">Cancel</string><string name="app_name">PublicLibrary</string><string name="select_hours">Select hours</string><string name="LOADING">Loading...</string><string name="time_separator" translatable="false">:</string><string name="hour_picker_description">Hours circular slider</string><string name="select_year">Select year</string><string name="year_picker_description">Year list</string><string name="deleted_key"><ns1:g example="4" id="key">%1$s</ns1:g> deleted</string><string name="select_minutes">Select minutes</string><string name="done_label">确定</string><string name="volley_load_error">加载错误~</string><string name="top_pull_load">加载中...</string><string name="day_picker_description">Month grid of days</string><string name="minute_picker_description">Minutes circular slider</string><string name="day_of_week_label_typeface" translatable="false">sans-serif</string><string name="dialog_default_title">Here\'s a message!</string><string name="time_placeholder" translatable="false">--</string><string name="sans_serif" translatable="false">sans-serif</string><string name="select_day">Select month and day</string></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values\styles.xml" qualifiers=""><style name="dialog_blue_button" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">31dp</item>
+        <item name="android:background">@drawable/blue_button_background</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingLeft">21dp</item>
+        <item name="android:paddingRight">21dp</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style><style name="day_of_week_label_condensed"/><style name="ampm_label">
+        <item name="android:textSize">@dimen/ampm_label_size</item>
+        <item name="android:textColor">@color/ampm_text_color</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="Mdialog" parent="android:Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowTitleSize">10dp</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="alert_dialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/float_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style><style name="time_label">
+        <item name="android:textSize">@dimen/time_label_size</item>
+        <item name="android:textColor">@color/numbers_text_color</item>
+    </style></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values-720x1280\dimens.xml" qualifiers="1280x720"><item format="float" name="numbers_radius_multiplier_normal" type="string">0.81</item><dimen name="indicator_internal_padding">4dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="selected_date_year_size">30dip</dimen><dimen name="picker_dimen">270dip</dimen><item format="float" name="circle_radius_multiplier_24HourMode" type="string">0.85</item><dimen name="banner_info_font">16sp</dimen><dimen name="done_label_size">14sp</dimen><dimen name="date_picker_view_animator_height">270dip</dimen><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="ampm_label_size">16sp</dimen><dimen name="pull_font_size">15sp</dimen><dimen name="selected_calendar_layout_height">155dip</dimen><dimen name="month_day_label_text_size">10sp</dimen><dimen name="month_select_circle_radius">45dip</dimen><dimen name="year_label_height">64dip</dimen><item format="float" name="text_size_multiplier_normal" type="string">0.17</item><dimen name="minimum_margin_sides">48dip</dimen><item format="float" name="text_size_multiplier_outer" type="string">0.11</item><dimen name="header_footer_top_bottom_padding">12dp</dimen><item format="float" name="selection_radius_multiplier" type="string">0.16</item><dimen name="common_circle_width">3dp</dimen><dimen name="date_picker_header_text_size">14dip</dimen><item format="float" name="text_size_multiplier_inner" type="string">0.14</item><dimen name="date_picker_header_height">30dip</dimen><dimen name="indicator_corner_radius">12dp</dimen><dimen name="day_number_size">16sp</dimen><dimen name="selected_date_day_size">75dip</dimen><dimen name="alert_width">290dp</dimen><dimen name="year_label_text_size">22dip</dimen><dimen name="extra_time_label_margin">-30dp</dimen><dimen name="separator_padding">4dip</dimen><dimen name="month_label_size">16sp</dimen><item format="float" name="circle_radius_multiplier" type="string">0.82</item><dimen name="time_label_size">60sp</dimen><dimen name="progress_circle_radius">34dp</dimen><dimen name="month_list_item_header_height">50dip</dimen><dimen name="ampm_left_padding">6dip</dimen><item format="float" name="ampm_circle_radius_multiplier" type="string">0.19</item><item format="float" name="numbers_radius_multiplier_outer" type="string">0.83</item><item format="float" name="numbers_radius_multiplier_inner" type="string">0.60</item><dimen name="date_picker_component_width">270dip</dimen><dimen name="selected_date_month_size">30dip</dimen><dimen name="minimum_margin_top_bottom">24dip</dimen><dimen name="day_number_select_circle_radius">16dip</dimen><dimen name="header_height">96dip</dimen></file><file path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\main\res\values-960x540\dimens.xml" qualifiers="960x540"><dimen name="banner_info_font">14sp</dimen></file></source><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\build\generated\res\rs\debug"/><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\AndroidStudioGit\KxtPkx\publiclibrary\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="BannerLayoutStyle"><attr format="color|reference" name="selectedIndicatorColor"/><attr format="color|reference" name="unSelectedIndicatorColor"/><attr format="enum" name="indicatorShape">
+            <enum name="rect" value="0"/>
+            <enum name="oval" value="1"/>
+        </attr><attr format="dimension|reference" name="selectedIndicatorHeight"/><attr format="dimension|reference" name="selectedIndicatorWidth"/><attr format="dimension|reference" name="unSelectedIndicatorHeight"/><attr format="dimension|reference" name="unSelectedIndicatorWidth"/><attr format="enum" name="indicatorPosition">
+            <enum name="centerBottom" value="0"/>
+            <enum name="rightBottom" value="1"/>
+            <enum name="leftBottom" value="2"/>
+            <enum name="centerTop" value="3"/>
+            <enum name="rightTop" value="4"/>
+            <enum name="leftTop" value="5"/>
+        </attr><attr format="dimension|reference" name="indicatorSpace"/><attr format="dimension|reference" name="indicatorMargin"/><attr format="integer|reference" name="autoPlayDuration"/><attr format="integer|reference" name="scrollDuration"/><attr format="boolean" name="isAutoPlay"/><attr format="integer|reference" name="defaultImage"/></declare-styleable><declare-styleable name="Rotate3dAnimation"><attr format="enum" name="rollType">
+            <enum name="x" value="0"/>
+            <enum name="y" value="1"/>
+            <enum name="z" value="2"/>
+        </attr><attr format="float" name="fromDeg"/><attr format="float" name="toDeg"/><attr format="fraction" name="pivotX"/><attr format="fraction" name="pivotY"/></declare-styleable><declare-styleable name="ShimmerView"><attr format="color" name="reflectionColor"/></declare-styleable><declare-styleable name="SwipyRefreshLayout"><attr name="direction">
+            <enum name="top" value="0"/>
+            <enum name="bottom" value="1"/>
+            <enum name="both" value="2"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>
